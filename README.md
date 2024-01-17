@@ -1,2 +1,2 @@
-# DoubleBarreledDogmaIssues
-Public issue tracker for Double Barreled Dogma
+# Double Barreled Dogma Issue Tracker
+TODO

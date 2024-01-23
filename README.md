@@ -1,2 +1,2 @@
-# Double Barreled Dogma Issue Tracker
-TODO
+# Double-Barreled Dogma Issue Tracker
+To report a bug, ask a question, or give feedback on the game, please head to the [Issues](https://github.com/stooop/DoubleBarreledDogmaIssues/issues) tab, click "New issue," and give it a useful title and informative description of the problem. Include your most recent log file (%APPDATA%/DoubleBarreledDogma/logs) and relevant screenshots (%APPDATA%/DoubleBarreledDogma/screenshots, capture using F11) if possible.
